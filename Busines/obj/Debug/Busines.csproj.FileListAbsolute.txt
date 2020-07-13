@@ -1,0 +1,13 @@
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Busines.dll.config
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Busines.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Busines.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\DataAccess.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Entities.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\DataAccess.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\bin\Debug\Entities.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\obj\Debug\Busines.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\ClassLibrary3\obj\Debug\Busines.pdb

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Entities.Concrete.Company>
+@{
+    ViewBag.Title = "Companies";
+}
+
+<h2 style="text-align:center;color:red;">Companies</h2>
+<br />
+<br />
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-6"><a href="/Home/CustomerForm?compId=@item.Id"><h3>@item.Name</h3></a></div>
+        }
+    </div>
+</div>
+
