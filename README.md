@@ -3,7 +3,7 @@
  
 Veritabanının adresini buradan değiştirebilirsiniz.
 
-Veritabanı yedek dosyası ek olarak eklenmiştir.(Çalışması için eklenmesi gerekiyor.)
+Veritabanı yedek dosyası ek olarak(script.sql) eklenmiştir.(Çalışması için eklenmesi gerekiyor.)
 
 
 Core katmanında önceki projelerimde de kullandığım generic tiplerle ekleme, silme, güncelleme, silme işlemleri yapılmaktadır.
