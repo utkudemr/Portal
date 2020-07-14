@@ -4,11 +4,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Busines.Results;
 
 namespace Busines.Abstract
 {
     public interface ICustomerInsert
     {
-        bool Add(Customer customer);
+        Result Add(Customer customer);
     }
 }

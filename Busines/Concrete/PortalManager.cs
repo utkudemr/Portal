@@ -1,4 +1,5 @@
 ﻿using Busines.Abstract;
+using Busines.Results;
 using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -17,10 +18,10 @@ namespace Busines.Concrete
         {
             _customer = customer;
         }
-        public bool Add(Customer customer)
+        public Result Add(Customer customer)
         {
              _customer.Add(customer);
-            return true;
+            return new Result(true,"Başarıyla eklendi");
         }
 
        

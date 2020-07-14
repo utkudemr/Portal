@@ -1,4 +1,5 @@
 ﻿using Busines.Abstract;
+using Busines.Results;
 using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -17,14 +18,14 @@ namespace Business.Concrete
             _mernis = mernis;
             _customer = customer;
         }
-        public bool Add(Customer customer)
+        public Result Add(Customer customer)
         {
             if (_mernis.isExist(customer) == false)
             {
-                return false;
+                return new Result(false, "Kullanıcı bulunamadı");
             }
             _customer.Add(customer);
-            return true;
+            return new Result(true, "Başarıyla eklendi");
         }
 
         public IList<Customer> GetList(int compId)

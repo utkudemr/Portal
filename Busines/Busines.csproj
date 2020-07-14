@@ -61,6 +61,7 @@
     </Compile>
     <Compile Include="Constants\CompanyNames.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Results\Result.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
